@@ -2,10 +2,14 @@
 My Turbo C 2.0 / Turbo C++ 3.0 study
 
 ## Headers
-* alloc.h, assert.h, bios.h, conio.h, ctype.h, dir.h, dos.h
-* errno.h, fcntl.h, float.h, graphics.h, io.h, limits.h
-* math.h, mem.h, process.h, setjmp.h, share.h, signal.h, stdarg.h
-* stddef.h, stdio.h, stdlib.h, string.h, time.h, valufs.h
+* math.h
+* ctype.h
+* stdio.h
+* stdlib.h
+* time.h
+* alloc.h, assert.h, bios.h, conio.h, dir.h, errno.h, fcntl.h, float.h, io.h, limits.h, mem.h, process.h, setjmp.h, share.h, signal.h, stdarg.h, stddef.h, string.h, valufs.h  
+* dos.h
+* graphics.h
 
 ## math.h
 * int abs(int x);
