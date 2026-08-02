@@ -116,3 +116,37 @@ int tm_isdst;
 * double difftime(time_t time2, time_t time1);
 * struct tm *gmtime(time_t *time);
 * time_t time(time_t time);
+
+## stdlib.h
+* div_t
+```
+struct div_t {
+int quot;
+int rem;
+};
+```
+* ldiv_t
+```
+struct ldiv_t {
+long int quot;
+long int rem;
+};
+```
+* void abort();
+* int abs(int num);
+* double atof(char *str);
+* int atoi(char *str);
+* long atol(char *str);
+* void *bsearch(void key, void *base, unsigned int num, unsigned int size, int (*compare)());
+* void exit(int status);
+* div_t div(int num, int denom);
+* char *itoa(int num, char *str, int radix);
+* long labs(long num);
+* ldiv_t ldiv(long int num, long int denom);
+* char *ltoa(long num, char *str, int radix);
+* void qsort(void *base, unsigned int num, unsigned int size, int (*comp)());
+* int rand();
+* double strtod(char *start, char **end);
+* long int strtol(char *start, char **end, int radix);
+* unsigned long int strtoul(char *start, char **end, int radix);
+* int system(char *str);
