@@ -7,9 +7,13 @@ My Turbo C 2.0 / Turbo C++ 3.0 study
 * stdio.h
 * stdlib.h
 * time.h
-* alloc.h, assert.h, bios.h, conio.h, dir.h, errno.h, fcntl.h, float.h, io.h, limits.h, mem.h, process.h, setjmp.h, share.h, signal.h, stdarg.h, stddef.h, string.h, valufs.h  
+* assert.h, errno.h, float.h, io.h, limits.h, mem.h, process.h, setjmp.h, signal.h, stdarg.h, stddef.h, string.h, 
+* alloc.h, bios.h, conio.h, dir.h, fcntl.h, share.h, valufs.h 
 * dos.h
 * graphics.h
+
+## Unsupported headers
+* complex.h, fenv.h, inttypes.h, iso646.h, locale.h, stdbool.h, stdint.h, tgmath.h, wchar.h, wctype.h   
 
 ## math.h
 * int abs(int x);
