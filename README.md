@@ -52,6 +52,45 @@ My Turbo C 2.0 / Turbo C++ 3.0 study
 * int tolower(int ch);
 * int toupper(int ch);
 
+## stdio.h
+* void clearerr(FILE *fp);
+* int close(int fp);
+* int creat(char * filename, int mode);
+* int eof(int fd);
+* int fclose(FILE *fp);
+* int feof(FILE *fp);
+* int fgetc(FILE *fp);
+* char *fgets(char *buf, int n, FILE *fp);
+* FILE *fopen(char *filename, char *mode);
+* int fpritnf(FILE *fp, char *format, args, ...);
+* int fputc(char ch, FILE *fp);
+* int fputs(char *str, FILE *fp);
+* int fread(char *pt, unsigned size, unsigned n, FILE *fp);
+* int fscanf(FILE *fp, char *format, args, ...);
+* int fseek(FILE *fp, long offset, int base);
+* long ftell(FILE *fp);
+* int fwrite(char *ptr, unsigned size, unsigned n, FILE *fp);
+* int getc(FILE *fp);
+* int getchar(void);
+* int getw(FILE *fp);
+* int open(char *file_name, int mode);
+* int printf(char *format, args, ...);
+* int putc(int ch, FILE *fp);
+* int putchar(char ch);
+* int puts(char *str);
+* int putw(int w, FILE *fp);
+* int read(int fd, char *buf, unsigned count);
+* int rename(char *oldname, char *newname);
+* void rewind(FILE *fp);
+* int scanf(char *format, args, ...);
+* int write(int fd, char *buf, unsigned count);
+
+## stdlib.h (or use malloc.h in the other compilers)
+* void *calloc(unsigned n, unsigned size);
+* void free(void *p);
+* void *malloc(unsigned size);
+* void *realloc(void *p, unsigned size);
+
 ## time.h
 * struct tm
 ```
