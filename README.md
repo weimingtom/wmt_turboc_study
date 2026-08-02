@@ -31,6 +31,27 @@ My Turbo C 2.0 / Turbo C++ 3.0 study
 * double tan(double x);
 * double tanh(double x);
 
+## ctype.h
+* int isalnum(int ch);
+* int isalpha(int ch);
+* int iscntrl(int ch);
+* int isdigit(int ch);
+* int isgraph(int ch);
+* int islower(int ch);
+* int isprint(int ch);
+* int ispunct(int ch);
+* int isspace(int ch);
+* int isupper(int ch);
+* int isxdigit(int ch);
+* char *strcat(char *str1, char * str2);
+* char *strchr(char *str, int ch);
+* int strcmp(char *str1, char *str2);
+* char *strcpy(char *str1, char *str2);
+* unsigned int strlen(char *str);
+* char *strstr(char *str1, char *str2);
+* int tolower(int ch);
+* int toupper(int ch);
+
 ## time.h
 * struct tm
 ```
