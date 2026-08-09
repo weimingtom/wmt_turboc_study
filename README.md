@@ -156,3 +156,49 @@ long int rem;
 * long int strtol(char *start, char **end, int radix);
 * unsigned long int strtoul(char *start, char **end, int radix);
 * int system(char *str);
+
+## dos.h
+* int bdos(int dosfun, unsigned dosdx, unsigned dosa1);
+* void getdate(struct date *dateblk);
+```
+struct date {
+int da_year;
+int da_day;
+int da_mon;
+};
+```
+* void getfat(int drive; struct fatinfo *fatblkp);
+```
+struct fatinfo {
+char fi_sclus;
+char fi_fatid;
+int fi_nclus;
+int fi_bysec;
+};
+```
+* int getftime(int handle, struct time *ftimep)
+* int inport(int port);
+* int inportb(int port);
+* int int86(int intr_num, union REGS *inregs, union REGS *outregs);
+* int intdos(union REGS inregs, union REGS outregs);
+* void keep(int status, int size);
+* void outp(int port, int value);
+* void outport(int port, int word);
+* void outportb(int port, char byte);
+* int peek(int segment, unsigned offset);
+* int peekb(int segment, unsigned offset);
+* void poke(int segment, int offset, int value);
+* void pokeb(int segment, int offset, char value);
+* int randbrd(struct fcb *fcbptr, int reccnt);
+* int randbwr(struct fcb *fcbptr, int reccnt);
+* void seeread(struct SREGS *segtbl);
+* void setdate(struct date *dateblk);
+* void settime(struct time * timep);
+```
+struct time {
+unsigned char ti_min;
+unsigned char ti_hour;
+unsigned char ti_hund;
+unsigned char ti_sec;
+};
+```
