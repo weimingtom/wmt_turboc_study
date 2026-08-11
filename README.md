@@ -202,3 +202,34 @@ unsigned char ti_hund;
 unsigned char ti_sec;
 };
 ```
+* unsigned sleep(unsigned seconds);
+* void sound(unsigned frequency);
+* void clreol(void);
+* void clrscr(void);
+* void delline(void);
+* void gettextinfo(struct text_info *inforec);
+* int gettext(int left, int top, int right, int bottom, void *destinfo);
+* void gotoxy(int x, int y);
+* void highvideo(void);
+* void insline(void);
+* void lowvideo(void);
+* int movetext(int left, int top, int right, int bottom, int newleft, int newtop):
+* void normvideo(void);
+* int puttext(int left, int top, int right, int bottom, void *source);
+* void textattr(int attribute);
+* void textbackground(int color);
+* void textcolor(int color);
+* void textmode(int mode);
+* int wherex(void);
+* int wherey(void);
+* void window(int left, int top, int right, int bottom);
+
+## graphics.h
+* void far arc(int x, int y, int stangle, int endangle, int radius);
+* void far bar(int left, int top, int right, int bottom);
+* void far bar3d(int left, int top, int right, int bottom, int depth, int topflag);
+* void far circle(int x, int y, int radius);
+* void far cleardevice(void);
+* void far clearviewport(void);
+* void far closegraph(void);
+* 
