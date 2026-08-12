@@ -12,6 +12,9 @@ https://archive.org/download/tcc_20210425/TCC.zip
 https://sourceforge.net/projects/tc64bitlauncher/  
 * Turbo C++  
 https://sourceforge.net/projects/turbocpp.mirror/      
+* dos.rar  
+http://code.google.com/p/yangw80/  
+* (only asm) ASM_to_C_root.rar  
 
 ## Standard Headers
 * math.h
