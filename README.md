@@ -267,4 +267,23 @@ unsigned char ti_sec;
 * void far cleardevice(void);
 * void far clearviewport(void);
 * void far closegraph(void);
+* void far detectgraph(int far *graphdriver, int far *graphmode);
+* void far drawpoly(int numpoints, int far *polypoints);
+* void far ellipse(int x, int y, int stangle, int endangle, int xrandius, int yrandius);
+* void far fillpoly(int numpoints, int far *polypoints);
+* void far bloodfill(int x, int y, int border);
+* void far getarccords(struct arccoordstype far *arccords);
+* void far getaspectratio(int far *xasp, int far *yasp);
+* int far getbkcolor(void);
+* int far getcolor(void);
+* void far getfillpattern(char far *upattern);
+* void far getfillsetting(struct fillsettingstype far *fillinfo);
+* int far getgraphmode(void)
+* void far getimage(int left, int top, int right, int bottom, void far *bitmap);
+* void far getlinesettings(struct linesettingstype far *lineinfo);
+* int far getmaxcolor(void);
+* int far getmaxx(void);
+* int far getmaxy(void);
+* void far getmoderange(int graphdriver, int far *lomode, int far *himode);
+* void far gettextsettings(struct textsettingstype far *textinfo);
 * 
