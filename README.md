@@ -1,6 +1,18 @@
 # wmt_turboc_study
 My Turbo C 2.0 / Turbo C++ 3.0 study
 
+## Download TC and TCC  
+* Borland Turbo C 2.01  
+https://archive.org/details/msdos_borland_turbo_c_2.01  
+https://archive.org/download/msdos_borland_turbo_c_2.01/BorlandTurboC201-megapack.zip  
+* Borland Turbo C++ 3.0  
+https://archive.org/details/tcc_20210425  
+https://archive.org/download/tcc_20210425/TCC.zip  
+* Turbo C 32/64bit launcher  
+https://sourceforge.net/projects/tc64bitlauncher/  
+* Turbo C++  
+https://sourceforge.net/projects/turbocpp.mirror/      
+
 ## Standard Headers
 * math.h
 * ctype.h
