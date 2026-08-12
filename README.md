@@ -18,8 +18,8 @@ https://sourceforge.net/projects/tc64bitlauncher/
 https://sourceforge.net/projects/turbocpp.mirror/      
 * DOSBox  
 https://sourceforge.net/projects/dosbox/  
-* DOSBox-X
-https://dosbox-x.com  
+* DOSBox-X  
+https://dosbox-x.com   
 
 ## Standard Headers
 * math.h
