@@ -3,7 +3,8 @@ My Turbo C 2.0 / Turbo C++ 3.0 study
 
 ## Download TC and TCC  
 * dos.rar  
-http://code.google.com/p/yangw80/  
+(dead) http://code.google.com/p/yangw80/   
+https://code.google.com/archive/p/yangw80/downloads  
 * (only asm) ASM_to_C_root.rar  
 * Borland Turbo C 2.01  
 https://archive.org/details/msdos_borland_turbo_c_2.01  
