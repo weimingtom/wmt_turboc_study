@@ -1,7 +1,7 @@
 # wmt_turboc_study
 My Turbo C 2.0 / Turbo C++ 3.0 study
 
-## Download TC and TCC  
+## Download TC and TCC, based on DOSBox or DOSBox-X  
 * dos.rar  
 (dead) http://code.google.com/p/yangw80/   
 https://code.google.com/archive/p/yangw80/downloads  
@@ -16,6 +16,10 @@ https://archive.org/download/tcc_20210425/TCC.zip
 https://sourceforge.net/projects/tc64bitlauncher/  
 * Turbo C++  
 https://sourceforge.net/projects/turbocpp.mirror/      
+* DOSBox  
+https://sourceforge.net/projects/dosbox/  
+* DOSBox-X
+https://dosbox-x.com  
 
 ## Standard Headers
 * math.h
