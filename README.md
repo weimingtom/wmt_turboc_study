@@ -21,6 +21,21 @@ https://sourceforge.net/projects/dosbox/
 * DOSBox-X  
 https://dosbox-x.com   
 
+## Turbo C graphics.h, BGI, DOS    
+* https://github.com/weimingtom/old_books_code  
+* https://github.com/weimingtom/TurboCGraphics  
+* https://github.com/search?p=1&q=Turbo+C+graphic&type=Repositories  
+* OpenBGI  
+https://sourceforge.net/projects/openbgi/  
+* WinBGIm  
+http://winbgim.codecutter.org  
+* easyx  
+http://www.easyx.cn  
+* EGE  
+https://github.com/misakamm/xege  
+* search baidupan, [整理]project.rar  
+* FreeDOS, search baidupan, dos.rar  
+
 ## Standard Headers
 * math.h
 * ctype.h
