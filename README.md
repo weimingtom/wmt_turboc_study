@@ -35,6 +35,7 @@ http://www.easyx.cn
 https://github.com/misakamm/xege  
 * search baidupan, [整理]project.rar  
 * FreeDOS, search baidupan, dos.rar  
+* https://github.com/yet-another-graphics-engine/YaGE  
 
 ## Standard Headers
 * math.h
