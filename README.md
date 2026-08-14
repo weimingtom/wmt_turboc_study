@@ -286,4 +286,35 @@ unsigned char ti_sec;
 * int far getmaxy(void);
 * void far getmoderange(int graphdriver, int far *lomode, int far *himode);
 * void far gettextsettings(struct textsettingstype far *textinfo);
-* 
+* void far getpalette(struct palettetype far *palette);
+* int far getpixel(int x, int y);
+* int far graphresult(void);
+* unsigned far imagesize(int left, int top, int right, int bottom);
+* void far initgraph(int far *graphdriver, int far *graphmode);
+* void far line(int x0, int y0, int x1, int y1);
+* void far linerel(int dx, int dy);
+* void far lineto(int x, int y);
+* void far moverel(int dx, int dy);
+* void far moveto(int x, int y);
+* void far outtext(char far *textstring);
+* void far outtextxy(int x, int y, char far *textstring);
+* void far pieslice (int x, int y, int stangle, int endangle, int radius);
+* void far putimage(int x, int y, void far *bitmap, int op);
+* void far putpixel(int x, int y, int pixelcolor);
+* void far rectangle(int left, int top, int right, int bottom);
+* int registerbgidriver(void (*driver)(void));
+* int registerbgifount(void (*driver)(void));
+* void far restorecrtmode(void);
+* void far setactivepage(int pagenum);
+* void far setallpalette(struct palettetype far *palette);
+* void far setbkcolor(int color);
+* void far setfillpattern(char far *pattern, int color);
+* void far setcolor(int color);
+* void far setfillstyle(int pattern, int color);
+* unsigned far setgraphbufsize(unsigned bufsize);
+* void far setgraphmode(int mode);
+* void far setlinestyle(int linestyle, unsigned upattern, int thickness);
+* void far setpalette(int index, int actual_color);
+
+
+
