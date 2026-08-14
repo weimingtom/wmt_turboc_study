@@ -316,5 +316,41 @@ unsigned char ti_sec;
 * void far setlinestyle(int linestyle, unsigned upattern, int thickness);
 * void far setpalette(int index, int actual_color);
 
+## C语言的图形函数
 
+### 图形模式控制函数:
+* initgraph
+* closegraph, restorecrtmode
+* setcolor, setbkcolor
+* cleardevice
+
+### 基本图形函数:
+* putpixel
+* line, lineto, linerel
+* moveto, moverel
+* circle, arc, ellipse
+* rectangle
+* drawpoly
+* getmaxx, getmaxy
+* getx, gety
+* getpixel
+* setlinestyle
+* getlinesettings
+* bar
+* setfillstyle
+* getfillsettings
+* floodfill
+
+### 图形屏幕操作函数:
+* setviewport
+* clearviewport
+* setactivepage
+* setvisualpage
+* imagesize
+* getimage
+* putimage
+
+### 图形模式下文本的输出:
+* outtext, outtextxy
+* settextstyle
 
