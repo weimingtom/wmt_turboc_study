@@ -37,6 +37,37 @@ https://github.com/misakamm/xege
 * FreeDOS, search baidupan, dos.rar  
 * https://github.com/yet-another-graphics-engine/YaGE  
 
+## Other software for DOS
+* DJGPP, DJGPP.rar (include djdev204_alpha.zip)  
+https://www.delorie.com/djgpp/   
+https://www.delorie.com/djgpp/dl/ofc/dlfiles.cgi/current/v2/  
+* https://github.com/weimingtom/wmt_asm_study
+* emu8086, emu8086v408r.exe, work_asm_tinybasic  
+https://github.com/weimingtom/emu8086_playground  
+https://github.com/AhmadNaserTurnkeySolutions/emu8086  
+* dos.rar
+* ASM_to_C_root.rar
+```
+C32Asm
+disassem.exe
+Fasm
+Fasm2
+FASMW
+IDEasm
+MASM
+masm32
+masm32_8_2
+MasmEdit
+nasm
+RadASM
+TASM
+tool: exe2bin.exe, EXE2COM.COM, notepad2.exe  
+VASM
+vasmb
+W32asm
+W32Dasm  V8
+```
+
 ## Standard Headers
 * math.h
 * ctype.h
