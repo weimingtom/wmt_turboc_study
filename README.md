@@ -45,7 +45,25 @@ https://www.delorie.com/djgpp/dl/ofc/dlfiles.cgi/current/v2/
 * emu8086, emu8086v408r.exe, work_asm_tinybasic  
 https://github.com/weimingtom/emu8086_playground  
 https://github.com/AhmadNaserTurnkeySolutions/emu8086  
-* dos.rar
+* dos.rar (27.73 MB)
+```
+C语言课程设计案例精编.7z
+dosbox
+BORLANDC, BC.EXE, BCC.EXE
+disassem.exe
+Fasm2
+IDEasm
+linux, LOADLIN.EXE
+MASM
+QB45
+simc2000
+TASM
+TC20
+TC30
+tool: exe2bin.exe, EXE2COM.COM, notepad2.exe
+VASM
+vasmb
+```
 * ASM_to_C_root.rar
 ```
 C32Asm
