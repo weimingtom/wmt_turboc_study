@@ -1,6 +1,12 @@
 # wmt_turboc_study
 My Turbo C 2.0 / Turbo C++ 3.0 study
 
+## Documents
+* https://www.freepascal.org/docs-html/rtl/graph/index-5.html
+* https://home.cs.colorado.edu/~main/bgi/doc/index.html
+* https://home.cs.colorado.edu/~main/bgi/doc/bgi.html
+* https://code-reference.com/c/graphics.h
+
 ## Download TC and TCC, based on DOSBox or DOSBox-X  
 * dos.rar  
 (dead) http://code.google.com/p/yangw80/   
