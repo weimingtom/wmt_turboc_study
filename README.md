@@ -9,6 +9,7 @@ My Turbo C 2.0 / Turbo C++ 3.0 study
 * https://github.com/actionanand/cppGraphicsExamples
 * https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md
 * https://github.com/ullaskunder3/Solution-to-graphics.h
+* https://math.pku.edu.cn/teachers/qiuzy/c/
 
 ## Download TC and TCC, based on DOSBox or DOSBox-X  
 * dos.rar  
