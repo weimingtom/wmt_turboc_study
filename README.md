@@ -30,11 +30,7 @@ https://sourceforge.net/projects/turbocpp.mirror/
 https://sourceforge.net/projects/dosbox/  
 * DOSBox-X  
 https://dosbox-x.com   
-* Watcom C/C++, Open Watcom C/C++  
-https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/  
 * WIN TC 1.9.exe  
-* DJGPP, DJGPP.rar, djdev204_alpha.zip, see below  
-* ‌Digital Mars C/C++（简称 DMC）是一款轻量级的 C/C++ 编译器  
 
 ## FreeDOS build, by Turbo C (TC) and TASM  
 * [整理]DOS-C操作系统源代码back.rar  
@@ -65,6 +61,10 @@ https://sandroid.org/TurboC/
 https://github.com/arbruijn/TurboC-library  
 
 ## Other software for DOS
+* Watcom C/C++, Open Watcom C/C++  
+https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/  
+* ‌Digital Mars C/C++（简称 DMC）是一款轻量级的 C/C++ 编译器    
+https://www.digitalmars.com  
 * DJGPP, DJGPP.rar (include djdev204_alpha.zip)  
 https://www.delorie.com/djgpp/   
 https://www.delorie.com/djgpp/dl/ofc/dlfiles.cgi/current/v2/  
