@@ -46,11 +46,11 @@ https://github.com/misakamm/xege
 * search baidupan, [整理]project.rar  
 * FreeDOS, search baidupan, dos.rar  
 * https://github.com/yet-another-graphics-engine/YaGE  
-* libgraph, Lib Graphics -- Turbo C's graphics.h in Linux  
+* libgraph, Lib Graphics -- Turbo C's graphics.h in Linux   
 https://savannah.nongnu.org/projects/libgraph  
 https://github.com/daringjoker/libgraph-clone  
 https://github.com/Prashant47/libgraph  
-* TurboC Home Page, Porting Borland Turbo C source code to GNU gcc
+* TurboC Home Page, Porting Borland Turbo C source code to GNU gcc  
 https://sandroid.org/TurboC/  
 https://github.com/arbruijn/TurboC-library  
 
