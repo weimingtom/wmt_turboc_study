@@ -32,10 +32,12 @@ https://sourceforge.net/projects/dosbox/
 https://dosbox-x.com   
 * Watcom C/C++, Open Watcom C/C++  
 https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/  
+* WIN TC 1.9.exe  
 
 ## FreeDOS build, by Turbo C (TC) and TASM  
 * [整理]DOS-C操作系统源代码back.rar  
 * DOS-C操作系统源代码.zip  
+* 纯C, dos.rar, include FreeDOS_01.rar and FreeDOS_02.rar  
 
 ## Turbo C graphics.h, BGI, DOS    
 * https://github.com/weimingtom/old_books_code  
