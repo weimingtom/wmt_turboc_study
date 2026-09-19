@@ -30,6 +30,8 @@ https://sourceforge.net/projects/turbocpp.mirror/
 https://sourceforge.net/projects/dosbox/  
 * DOSBox-X  
 https://dosbox-x.com   
+* Watcom C/C++, Open Watcom C/C++  
+https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/  
 
 ## Turbo C graphics.h, BGI, DOS    
 * https://github.com/weimingtom/old_books_code  
