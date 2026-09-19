@@ -46,6 +46,11 @@ https://github.com/misakamm/xege
 * search baidupan, [整理]project.rar  
 * FreeDOS, search baidupan, dos.rar  
 * https://github.com/yet-another-graphics-engine/YaGE  
+* libgraph, Lib Graphics -- Turbo C's graphics.h in Linux  
+https://savannah.nongnu.org/projects/libgraph  
+https://github.com/daringjoker/libgraph-clone  
+https://github.com/arbruijn/TurboC-library  
+https://github.com/Prashant47/libgraph  
 
 ## Other software for DOS
 * DJGPP, DJGPP.rar (include djdev204_alpha.zip)  
