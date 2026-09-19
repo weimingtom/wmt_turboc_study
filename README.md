@@ -33,6 +33,8 @@ https://dosbox-x.com
 * Watcom C/C++, Open Watcom C/C++  
 https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/  
 * WIN TC 1.9.exe  
+* DJGPP, DJGPP.rar, djdev204_alpha.zip, see below  
+* ‌Digital Mars C/C++（简称 DMC）是一款轻量级的 C/C++ 编译器  
 
 ## FreeDOS build, by Turbo C (TC) and TASM  
 * [整理]DOS-C操作系统源代码back.rar  
