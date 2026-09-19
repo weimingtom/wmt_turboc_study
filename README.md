@@ -49,8 +49,10 @@ https://github.com/misakamm/xege
 * libgraph, Lib Graphics -- Turbo C's graphics.h in Linux  
 https://savannah.nongnu.org/projects/libgraph  
 https://github.com/daringjoker/libgraph-clone  
-https://github.com/arbruijn/TurboC-library  
 https://github.com/Prashant47/libgraph  
+* TurboC Home Page, Porting Borland Turbo C source code to GNU gcc
+https://sandroid.org/TurboC/  
+https://github.com/arbruijn/TurboC-library  
 
 ## Other software for DOS
 * DJGPP, DJGPP.rar (include djdev204_alpha.zip)  
