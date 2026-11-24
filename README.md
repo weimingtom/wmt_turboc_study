@@ -406,6 +406,9 @@ unsigned char ti_sec;
 * int wherey(void);
 * void window(int left, int top, int right, int bottom);
 
+## conio.h
+* (TODO)
+
 ## graphics.h
 * void far arc(int x, int y, int stangle, int endangle, int radius);
 * void far bar(int left, int top, int right, int bottom);
