@@ -197,6 +197,9 @@ C/C++常用标准库函数，见于《C++程序设计实验指导》钱能编
 * double tanh(double x);
 
 ## ctype.h
+```
+标注(not here?)的各函数不见于《C程序设计题解与上机指导》而只见于《C程序设计（第二版）》
+```
 * int isalnum(int ch);
 * int isalpha(int ch);
 * int iscntrl(int ch);
@@ -220,6 +223,7 @@ C/C++常用标准库函数，见于《C++程序设计实验指导》钱能编
 ## stdio.h
 ```
 some functions in io.h or conio.h
+标注(new)的各函数皆见于《C程序设计题解与上机指导》而非《C程序设计（第二版）》
 ```
 * void clearerr(FILE *fp);
 * int close(int fp);
@@ -415,6 +419,9 @@ unsigned char ti_sec;
 * void window(int left, int top, int right, int bottom);
 
 ## conio.h
+```
+conio.h各函数皆见于《C程序设计题解与上机指导》而非《C程序设计（第二版）》
+```
 * (TODO)
 
 ## graphics.h
