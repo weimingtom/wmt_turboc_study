@@ -210,12 +210,17 @@ W32Dasm  V8
 * int toupper(int ch);
 
 ## stdio.h
+```
+some functions in io.h or conio.h
+```
 * void clearerr(FILE *fp);
 * int close(int fp);
 * int creat(char * filename, int mode);
 * int eof(int fd);
 * int fclose(FILE *fp);
 * int feof(FILE *fp);
+* (new) int ferror(FILE *fp);
+* (new) int fflush(FILE *fp); 
 * int fgetc(FILE *fp);
 * char *fgets(char *buf, int n, FILE *fp);
 * FILE *fopen(char *filename, char *mode);
@@ -223,6 +228,7 @@ W32Dasm  V8
 * int fputc(char ch, FILE *fp);
 * int fputs(char *str, FILE *fp);
 * int fread(char *pt, unsigned size, unsigned n, FILE *fp);
+* (new) FILE *freopen(char *fname, char *mode, FILE *fp);
 * int fscanf(FILE *fp, char *format, args, ...);
 * int fseek(FILE *fp, long offset, int base);
 * long ftell(FILE *fp);
@@ -230,6 +236,8 @@ W32Dasm  V8
 * int getc(FILE *fp);
 * int getchar(void);
 * int getw(FILE *fp);
+* (new) int kbhit();
+* (new) long lseek(int fd, long offset, int base);
 * int open(char *file_name, int mode);
 * int printf(char *format, args, ...);
 * int putc(int ch, FILE *fp);
@@ -237,10 +245,18 @@ W32Dasm  V8
 * int puts(char *str);
 * int putw(int w, FILE *fp);
 * int read(int fd, char *buf, unsigned count);
+* (new) int remove(char *fname);
 * int rename(char *oldname, char *newname);
 * void rewind(FILE *fp);
 * int scanf(char *format, args, ...);
-* int write(int fd, char *buf, unsigned count);
+* (new) void setbuf(FILE *fp, char *buf);
+* (new) int setvbuf(FILE *fp, char *buf, int mode, int size);
+* (new) int sprintf(char *buf, char *format, args, ...);
+* (new) int sscanf(char *buf, char *format, args, ...);
+* (new) long int tell(int fd);
+* (new) char *tmpnam(char *name);
+* (new) FILE *tmpfile();
+* int write(int fd, char *buf, unsigned count); int write(int fd, char *buf, unsigned int size);  
 
 ## stdlib.h (or use malloc.h in the other compilers)
 * void *calloc(unsigned n, unsigned size);
