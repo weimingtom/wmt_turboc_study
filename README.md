@@ -357,7 +357,7 @@ int da_day;
 int da_mon;
 };
 ```
-* void getfat(int drive; struct fatinfo *fatblkp);
+* void getfat(int drive, struct fatinfo *fatblkp);
 ```
 struct fatinfo {
 char fi_sclus;
