@@ -165,6 +165,14 @@ W32Dasm  V8
 * complex.h, fenv.h, inttypes.h, iso646.h, locale.h, stdbool.h, stdint.h, tgmath.h, wchar.h, wctype.h   
 
 ## math.h
+```
+以下函数表，从math.h开始，到graphics.h，主要参考：《C程序设计（第二版）》谭浩强著
+更详细的各个头文件函数名表，见于《C程序设计题解与上机指导》谭浩强主编  
+C/C++常用标准库函数，见于《C++程序设计实验指导》钱能编
+图形模式控制函数，见于《计算机图形学教程》郭启全编著
+库函数表，见于《C语言上机操作与课程设计指导》
+《TURBO C实用大全》
+```
 * int abs(int x);
 * double acos(double x);
 * double asin(double x);
