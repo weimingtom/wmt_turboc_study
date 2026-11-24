@@ -304,6 +304,15 @@ long int rem;
 * unsigned long int strtoul(char *start, char **end, int radix);
 * int system(char *str);
 
+## string.h
+* void memchr(void *buf, int ch, unsigned int count);
+* int memcmp(void *buf1, void *buf2, unsigned int count);
+* void *memcpy(void *to, void *from, unsigned int count);
+* void *memmove(void *to, void *from, unsigned int count);
+* void *memset(void *buf, int ch, unsigned int count);
+* char *strcat(char *str, char *str2);
+* 
+
 ## dos.h
 * int bdos(int dosfun, unsigned dosdx, unsigned dosa1);
 * void getdate(struct date *dateblk);
