@@ -311,7 +311,17 @@ long int rem;
 * void *memmove(void *to, void *from, unsigned int count);
 * void *memset(void *buf, int ch, unsigned int count);
 * char *strcat(char *str, char *str2);
-* 
+* char *strchr(char *str, int ch);
+* int strcmp(char *str1, char *str2);
+* char *strcpy(char *str1, char *str2);
+* unsigned int strlen(char *str);
+* int strcspn(char *str1, char *str2);
+* char *strncat(char *str1, char *str2, unsigned int count);
+* int strncmp(char *str1, char *str2, unsigned int count);
+* char *strncpy(char *str1, char *str2, unsigned int count);
+* char *strpbrk(char *str1, char *str2);
+* int strspn(char *str1, char *str2);
+* char *strstr(char *str1, char *str2);
 
 ## dos.h
 * int bdos(int dosfun, unsigned dosdx, unsigned dosa1);
