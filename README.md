@@ -200,12 +200,12 @@ W32Dasm  V8
 * int isspace(int ch);
 * int isupper(int ch);
 * int isxdigit(int ch);
-* char *strcat(char *str1, char * str2);
-* char *strchr(char *str, int ch);
-* int strcmp(char *str1, char *str2);
-* char *strcpy(char *str1, char *str2);
-* unsigned int strlen(char *str);
-* char *strstr(char *str1, char *str2);
+* (not here?) char *strcat(char *str1, char * str2);
+* (not here?) char *strchr(char *str, int ch);
+* (not here?) int strcmp(char *str1, char *str2);
+* (not here?) char *strcpy(char *str1, char *str2);
+* (not here?) unsigned int strlen(char *str);
+* (not here?) char *strstr(char *str1, char *str2);
 * int tolower(int ch);
 * int toupper(int ch);
 
