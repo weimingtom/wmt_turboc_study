@@ -422,7 +422,25 @@ unsigned char ti_sec;
 ```
 conio.h各函数皆见于《C程序设计题解与上机指导》而非《C程序设计（第二版）》
 ```
-* (TODO)
+* void clreol(void);
+* void clrscr(void);
+* void delline(void);
+* int gettext(int left, int top, int right, int bottom, void *destin);
+* void gettextinfo(struct text_info *inforec);
+* void gotoxy(int x, int y);
+* void highvideo(void);
+* void insline(void);
+* void lowvideo(void);
+* int movetext(int left, int top, int right, int bottom, int newleft, int newtop);
+* void normvideo(void);
+* int puttext(int left, int top, int right, int bottom, void *source);
+* void textattr(int attribute);
+* void textbackground(int color);
+* void textcolor(int color);
+* void textmode(int mode);
+* int wherex(void);
+* int wherey(void);
+* void window(int left, int top, int right, int bottom);
 
 ## graphics.h
 * void far arc(int x, int y, int stangle, int endangle, int radius);
